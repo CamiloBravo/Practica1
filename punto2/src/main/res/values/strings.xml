@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Punto2</string>
+    <string name="mi_nota">Mi nota</string>
+    <string name="practicas">Practicas</string>
+    <string name="avance_1_proyecto">Avance 1 Proyecto</string>
+    <string name="avance_2_proyecto">Avance 2 proyecto</string>
+    <string name="avance_3_proyecto">Avance 3 proyecto</string>
+    <string name="aplicacion_final">Aplicacion final</string>
+    <string name="calcular">Calcular</string>
+    <string name="nota_final">Nota Final</string>
+    <string name="p1">p1</string>
+    <string name="a1">a1</string>
+    <string name="a2">a2</string>
+    <string name="a3">a3</string>
+    <string name="afin">afin</string>
+    <string name="notaf">notaf</string>
+</resources>
